@@ -7,4 +7,3 @@ Midterm for the COMP2120 Object Oriented Programming using Java course, fall 202
 
 3) Third question.  Create a TriviaGame class, along with a Player and Question class.  Had to read questions from a text file, store in ArrayList, and then keep score. 
 
-I scored 100% on this exam.
